@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaTheAnalyst
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning R/SQL/Python?Tableau
+- 🌱 I’m currently learning R/SQL/Python/Tableau
 
 
 <!---
